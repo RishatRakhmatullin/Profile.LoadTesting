@@ -253,7 +253,7 @@
 9.06.Задание. Вопрос. Имя операции - MedTime выполнения Max в ЧПН
 ![9.6.Задание Вопрос Имя операции - MedTime выполнения Max в ЧПН](Profile_Results/9.06.Задание.Вопрос.ИмяОперации-MedTimeВыполненияMaxЧПН.png?raw=true "9.6.Задание Вопрос Имя операции - MedTime выполнения Max в ЧПН")
 
-b>Расчет среднего значения</b>
+<b>Расчет среднего значения</b>
 
 9.07.Сводная таблица. Поле ResponseTime. Расчет MedTime выполнения Max в ЧПН
 ![9.7.СвТаб ResponseTime Расчет MedTime выполнения Max в ЧПН](Profile_Results/9.07.СвТаб.ResponseTime.Расчет-MedTimeВыполненияMaxЧПН.png?raw=true "9.7.СвТаб ResponseTime Расчет MedTime выполнения Max в ЧПН")
