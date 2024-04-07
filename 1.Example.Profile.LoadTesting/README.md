@@ -27,7 +27,7 @@
 
 <b>I этап. Форматирование Исходных данных</b>
 1.1.Исходные данные Log представлены в отдельном текстовом файле LogFile new4.txt
-![1.1.Исходные данные Log TXT](Profile_Results/1.1.Исходные_данные_Log_TXT.png?raw=true "1.1.Исходные данные Log TXT")
+![1.1.Исходные данные Log TXT](Profile_Results/1.1.ИсходныеДанныеLogTXT.png?raw=true "1.1.Исходные данные Log TXT")
 
 1.2.Исходные данные. Log в редакторе Notepad++ - "Выделить всё"
 ![1.2.Исходные данные Log TXT Выделить всё](Profile_Results/1.2.Исходные данные Log TXT Выделить всё.png?raw=true "1.2.Исходные данные Log TXT Выделить всё")
@@ -282,7 +282,7 @@
 
 <b>Профиль нагрузочного тестирования:</b>
 10.Load testing Profile
-![10.Load testing Profile](Profile_Results/10.Load_testing_Profile.png?raw=true "10.Load testing Profile")
+![10.Load testing Profile](Profile_Results/10.LoadTestingProfile.png?raw=true "10.Load testing Profile")
 
 Благодарю за просмотр
 ![100.Благодарю за просмотр](Profile_Results/100.Благодарю за просмотр.png?raw=true "100.Благодарю за просмотр")
